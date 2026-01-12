@@ -128,7 +128,7 @@ export default function Navbar() {
                 className="hidden lg:flex relative items-center justify-center overflow-hidden"
               >
                 <img
-                  src="/public/nav-bg.png"
+                  src="/nav-bg.png"
                   alt="Architectural Background"
                   className="absolute inset-0 w-full h-full object-cover object-right"
                 />

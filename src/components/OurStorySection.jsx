@@ -34,7 +34,7 @@
 
 //           <ScrollReveal direction="right">
 //             <div className="flex justify-center items-center">
-//               <img src="/public/India.png" alt="map" className="w-[80%]"/>
+//               <img src="/India.png" alt="map" className="w-[80%]"/>
 //             </div>
 //           </ScrollReveal>
 //         </div>

@@ -14,7 +14,7 @@ export default function ContactPage() {
       {/* Hero Section - Image Only */}
       <section className="relative h-[50vh] md:h-[70vh] lg:h-dvh w-full">
         <img
-          src="/public/nav-bg.png"
+          src="/nav-bg.png"
           alt="Contact Us"
           className="w-full h-full object-cover"
         />

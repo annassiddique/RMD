@@ -12,7 +12,7 @@ export default function AboutPage() {
       {/* Hero Section */}
       <section className="relative h-[60vh] md:h-[80vh] w-full">
         <img
-          src="/public/about.jpg"
+          src="/about.jpg"
           alt="About RMD"
           className="w-full h-full object-cover object-center"
         />
@@ -132,7 +132,7 @@ export default function AboutPage() {
               {/* Founder Image */}
               <div className="relative h-75 md:h-125 w-full">
                 <img
-                  src="/public/ceo.png"
+                  src="/ceo.png"
                   alt="Founder"
                   className="w-full h-full object-cover"
                 />

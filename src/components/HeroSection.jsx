@@ -18,7 +18,7 @@ export default function HeroSection() {
       {/* Fallback Image */}
       <div className="absolute inset-0 bg-black">
         <img
-          src="/public/hero.png"
+          src="/hero.png"
           alt="Architectural View"
           className="w-full h-full object-cover opacity-70"
         />

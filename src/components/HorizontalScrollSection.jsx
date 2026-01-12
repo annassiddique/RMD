@@ -92,7 +92,7 @@ const HorizontalScrollSection = () => {
                 </div>
                 <div className="flex justify-center md:justify-end">
                   <div className="relative w-60 sm:w-70 md:w-125 h-65 sm:h-77.5 md:h-137.5 overflow-hidden shadow-xl">
-                    <img src="/public/hero.png" alt="CASA II" className="w-full h-full object-cover" />
+                    <img src="/hero.png" alt="CASA II" className="w-full h-full object-cover" />
                   </div>
                 </div>
               </div>
@@ -122,7 +122,7 @@ const HorizontalScrollSection = () => {
                 </div>
                 <div className="flex justify-center md:justify-end">
                   <div className="relative w-60 sm:w-70 md:w-125 h-65 sm:h-77.5 md:h-137.5 overflow-hidden">
-                    <img src="/public/elgant.png" alt="Design" className="w-full h-full object-cover" />
+                    <img src="/elgant.png" alt="Design" className="w-full h-full object-cover" />
                   </div>
                 </div>
               </div>
@@ -152,7 +152,7 @@ const HorizontalScrollSection = () => {
                 </div>
                 <div className="md:order-1 flex justify-center md:block md:-ml-8">
                   <div className="relative w-70 sm:w-85 md:w-150 h-40 sm:h-50 md:h-87.5 overflow-hidden">
-                    <img src="/public/craft.png" alt="Craftsmanship" className="w-full h-full object-cover" />
+                    <img src="/craft.png" alt="Craftsmanship" className="w-full h-full object-cover" />
                   </div>
                 </div>
               </div>
@@ -182,10 +182,10 @@ const HorizontalScrollSection = () => {
                 </div>
                 <div className="flex gap-2 sm:gap-3 md:gap-4 justify-center md:justify-end items-end">
                   <div className="relative w-27.5 sm:w-35 md:w-62.5 h-32.5 sm:h-42.5 md:h-75 md:mb-5 overflow-hidden">
-                    <img src="/public/endure1.png" alt="Quality" className="w-full h-full object-cover" />
+                    <img src="/endure1.png" alt="Quality" className="w-full h-full object-cover" />
                   </div>
                   <div className="relative w-37.5 sm:w-50 md:w-95 h-45 sm:h-60 md:h-112.5 overflow-hidden">
-                    <img src="/public/endure2.png" alt="Endures" className="w-full h-full object-cover" />
+                    <img src="/endure2.png" alt="Endures" className="w-full h-full object-cover" />
                   </div>
                 </div>
               </div>
@@ -215,7 +215,7 @@ const HorizontalScrollSection = () => {
                 </div>
                 <div className="md:order-1 flex justify-center md:block md:-ml-12">
                   <div className="relative w-60 sm:w-75 md:w-145 h-82.5 sm:h-105 md:h-dvh rounded-lg overflow-hidden">
-                    <img src="/public/well.png" alt="Well-Being" className="w-full h-full object-cover object-right" />
+                    <img src="/well.png" alt="Well-Being" className="w-full h-full object-cover object-right" />
                   </div>
                 </div>
               </div>
@@ -245,7 +245,7 @@ const HorizontalScrollSection = () => {
                 </div>
                 <div className="flex justify-center md:justify-end">
                   <div className="relative w-60 sm:w-75 md:w-125 h-82.5 sm:h-105 md:h-dvh rounded-lg overflow-hidden">
-                    <img src="/public/lifted.png" alt="Lifestyle" className="w-full h-full object-cover" />
+                    <img src="/lifted.png" alt="Lifestyle" className="w-full h-full object-cover" />
                   </div>
                 </div>
               </div>
@@ -275,7 +275,7 @@ const HorizontalScrollSection = () => {
                 </div>
                 <div className="md:order-1 flex justify-center md:block md:-ml-12">
                   <div className="relative w-70 sm:w-85 md:w-145 h-47.5 sm:h-57.5 md:h-100 rounded-lg overflow-hidden">
-                    <img src="/public/connected.png" alt="Locations" className="w-full h-full object-cover" />
+                    <img src="/connected.png" alt="Locations" className="w-full h-full object-cover" />
                   </div>
                 </div>
               </div>
@@ -305,7 +305,7 @@ const HorizontalScrollSection = () => {
                 </div>
                 <div className="flex justify-center md:justify-end">
                   <div className="relative w-55 sm:w-70 md:w-120 h-82.5 sm:h-105 md:h-dvh rounded-lg overflow-hidden">
-                    <img src="/public/trust.png" alt="Trust" className="w-full h-full object-cover" />
+                    <img src="/trust.png" alt="Trust" className="w-full h-full object-cover" />
                   </div>
                 </div>
               </div>
@@ -325,7 +325,7 @@ const HorizontalScrollSection = () => {
 
             <div className="relative z-10 max-w-9xl mx-auto px-4 sm:px-6 md:px-8 lg:px-12 w-full">
               <div className="relative w-full max-w-6xl mx-auto h-100 sm:h-125 md:h-dvh rounded-lg overflow-hidden border-2 sm:border-3 md:border-4 border-white/20">
-                <img src="/public/sign.png" alt="RMD Signature" className="w-full h-full object-cover" />
+                <img src="/sign.png" alt="RMD Signature" className="w-full h-full object-cover" />
                 <div className="absolute inset-0 bg-purple-900/30 mix-blend-multiply" />
                 <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4 sm:px-6">
                   <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-serif text-white mb-4 md:mb-6">

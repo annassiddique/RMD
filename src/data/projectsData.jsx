@@ -4,15 +4,15 @@ export const projectsData = [
     slug: "casa-ii-rmd",
     title: "CASA II BY RMD",
     subtitle: "Modern Luxury Living",
-    heroImage: "/public/hero.png",
+    heroImage: "/hero.png",
     description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.`,
-    mainImage: "/public/hero.png",
+    mainImage: "/hero.png",
     brochureLink: "/brochures/casa-ii.pdf",
     floorPlanLink: "/floorplans/casa-ii.pdf",
-    exteriorImages: ["/public/hero.png", "/public/project.png"],
-    interiorImages: ["/public/elgant.png", "/public/craft.png"],
+    exteriorImages: ["/hero.png", "/project.png"],
+    interiorImages: ["/elgant.png", "/craft.png"],
     amenities: [
       { icon: "Waves", name: "SAUNA & STEAM" },
       { icon: "UtensilsCrossed", name: "OUTDOOR DINING" },
@@ -26,12 +26,12 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     floorPlans: [
       {
         name: "1 Bedroom",
-        image: "/public/floorplan.png",
+        image: "/floorplan.png",
         size: "850 sq ft",
       },
       {
         name: "2 Bedroom",
-        image: "/public/floor-plan.png",
+        image: "/floor-plan.png",
         size: "1200 sq ft",
       },
     ],
@@ -277,13 +277,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     slug: "project-ii-rmd",
     title: "PROJECT II BY RMD",
     subtitle: "Contemporary Design",
-    heroImage: "/public/project.png",
+    heroImage: "/project.png",
     description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.`,
-    mainImage: "/public/project.png",
+    mainImage: "/project.png",
     brochureLink: "/brochures/project-ii.pdf",
     floorPlanLink: "/floorplans/project-ii.pdf",
-    exteriorImages: ["/public/project.png"],
-    interiorImages: ["/public/hero.png"],
+    exteriorImages: ["/project.png"],
+    interiorImages: ["/hero.png"],
     amenities: [
       { icon: "Waves", name: "SWIMMING POOL" },
       { icon: "Dumbbell", name: "FITNESS CENTER" },
@@ -293,7 +293,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     floorPlans: [
       {
         name: "3 Bedroom",
-        image: "/public/floorplan.png",
+        image: "/floorplan.png",
         size: "1500 sq ft",
       },
     ],
