@@ -4,7 +4,7 @@ import FooterSection from "./components/FooterSection";
 import Homepage from "./pages/HomePage";
 import ContactPage from "./pages/ContactPage";
 import AboutPage from "./pages/AboutPage";
-import ProjectPage from "./pages/Projectpage";
+import ProjectPage from "./pages/ProjectPage";
 
 
 function App() {
